@@ -16,7 +16,7 @@ Every asset in this project was created from scratch using professional graphic 
 This layout illustrates depth replication across multiple color models, pairing realistic lighting maps with uniform custom wax stamps.
 
 <p align="center">
-  <img src="Screenshot 2026-03-11 120940_3.jpg" alt="Theme Variant Showcase" width="600"/>
+  <img src="Screenshot 2026-03-11 120940.png" alt="Theme Variant Showcase" width="600"/>
 </p>
 
 *   **Design Highlight:** Features custom textured paper simulation balanced against delicate minimalist vector linework and a high-contrast dimensional seal.
@@ -25,7 +25,7 @@ This layout illustrates depth replication across multiple color models, pairing 
 A vertical isolation highlighting macro details, granular texture uniformity, and precision shadow casting.
 
 <p align="center">
-  <img src="Your paragraph text_2.png" alt="High-Fidelity Asset Deep Dive" width="450"/>
+  <img src="Your paragraph text.png" alt="High-Fidelity Asset Deep Dive" width="450"/>
 </p>
 
 *   **Design Highlight:** Showcases custom shadow mapping and precise multi-layered depth alignment created using vector-based graphic designing.
