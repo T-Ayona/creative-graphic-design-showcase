@@ -9,7 +9,7 @@ This section highlights a creative design project featuring realistic, highly de
 Below is the conceptual asset design template showing variations in color palettes, textures, and depth formatting:
 
 ![Digital Envelope Assets Showcase](Screenshot%202026-03-11%20120940_2.jpg)
-![Digital Envelope Assets Showcase](Your paragraph text.jpg)
+
 
 ## 🎨 Design Overview & Concept
 
